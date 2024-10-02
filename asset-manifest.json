@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/reac_harulaundry/static/css/main.2bdbf193.css",
-    "main.js": "/reac_harulaundry/static/js/main.bd50151f.js",
+    "main.js": "/reac_harulaundry/static/js/main.a82c8ab6.js",
     "static/js/453.5e560239.chunk.js": "/reac_harulaundry/static/js/453.5e560239.chunk.js",
     "static/media/main_img2.png": "/reac_harulaundry/static/media/main_img2.bf97bfc5b5add5ba56cf.png",
     "index.html": "/reac_harulaundry/index.html",
     "main.2bdbf193.css.map": "/reac_harulaundry/static/css/main.2bdbf193.css.map",
-    "main.bd50151f.js.map": "/reac_harulaundry/static/js/main.bd50151f.js.map",
+    "main.a82c8ab6.js.map": "/reac_harulaundry/static/js/main.a82c8ab6.js.map",
     "453.5e560239.chunk.js.map": "/reac_harulaundry/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2bdbf193.css",
-    "static/js/main.bd50151f.js"
+    "static/js/main.a82c8ab6.js"
   ]
 }
