@@ -1,0 +1,137 @@
+.select {
+  height: 860px;
+  background-color: #f2f3f7;
+  .top {
+    width: 100%;
+
+    ul {
+      width: 95%;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      padding-top: 17px;
+      padding-left: 32px;
+      justify-content: space-between;
+      margin: 0;
+      li {
+        &.logoin {
+          span {
+            color: black;
+            font-weight: 500;
+            font-size: 0.9rem;
+          }
+        }
+
+        &.close {
+          font-size: 1.2rem;
+          display: block;
+        }
+      }
+    }
+  }
+  .main {
+    margin: 0;
+    padding: 15px 0 50px;
+  }
+  .main_con {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 15px;
+
+    .con {
+      display: flex;
+      .img1 {
+        width: 50px;
+        height: 50px;
+        background-color: #f2f3f7;
+        display: inline-block;
+        background: url(../../public/img/p_icon1.png) no-repeat center;
+        background-size: 100%;
+        text-indent: -9999px;
+        margin: 0;
+      }
+      .img2 {
+        width: 50px;
+        height: 50px;
+        background-color: #f2f3f7;
+        display: inline-block;
+        background: url(../../public/img/p_icon2.png) no-repeat center;
+        background-size: 100%;
+        text-indent: -9999px;
+        margin: 0;
+      }
+      .img2 {
+        width: 50px;
+        height: 50px;
+        background-color: #f2f3f7;
+        display: inline-block;
+        background: url(../../public/img/p_icon2.png) no-repeat center;
+        background-size: 100%;
+        text-indent: -9999px;
+        margin: 0;
+      }
+      .img3 {
+        width: 50px;
+        height: 50px;
+        background-color: #f2f3f7;
+        display: inline-block;
+        background: url(../../public/img/p_icon3.png) no-repeat center;
+        background-size: 100%;
+        text-indent: -9999px;
+        margin: 0;
+      }
+      .img4 {
+        width: 50px;
+        height: 50px;
+        background-color: #f2f3f7;
+        display: inline-block;
+        background: url(../../public/img/p_icon4.png) no-repeat center;
+        background-size: 100%;
+        text-indent: -9999px;
+        margin: 0;
+      }
+      div {
+        margin-left: 15px;
+        display: flex;
+        flex-direction: column;
+        padding-top: 8px;
+
+        p {
+          margin: 0;
+          font-weight: 600;
+          font-size: 0.9rem;
+          line-height: 1;
+          letter-spacing: -1px;
+        }
+        span {
+          color: #888;
+          font-size: 0.85rem;
+          letter-spacing: -1px;
+        }
+      }
+    }
+
+    .guduk {
+      width: 95%;
+      background-color: #f6faff;
+      margin: 0 auto;
+      border-radius: 15px;
+      display: flex;
+      padding: 15px;
+      margin-top: 10px;
+
+      p {
+        margin: 0;
+        font-weight: 600;
+        justify-content: center;
+        color: #6699ff;
+        margin: 0 auto;
+        font-size: 0.9rem;
+        letter-spacing: -1px;
+      }
+    }
+  }
+}

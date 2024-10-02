@@ -1,0 +1,127 @@
+.select {
+  height: 860px;
+  background-color: #f2f3f7;
+}
+.select .top {
+  width: 100%;
+}
+.select .top ul {
+  width: 95%;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  padding-top: 17px;
+  padding-left: 32px;
+  justify-content: space-between;
+  margin: 0;
+}
+.select .top ul li.logoin span {
+  color: black;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+.select .top ul li.close {
+  font-size: 1.2rem;
+  display: block;
+}
+.select .main {
+  margin: 0;
+  padding: 15px 0 50px;
+}
+.select .main_con {
+  width: 90%;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 15px;
+  padding: 20px;
+  margin-top: 15px;
+}
+.select .main_con .con {
+  display: flex;
+}
+.select .main_con .con .img1 {
+  width: 50px;
+  height: 50px;
+  background-color: #f2f3f7;
+  display: inline-block;
+  background: url(../../public/img/p_icon1.png) no-repeat center;
+  background-size: 100%;
+  text-indent: -9999px;
+  margin: 0;
+}
+.select .main_con .con .img2 {
+  width: 50px;
+  height: 50px;
+  background-color: #f2f3f7;
+  display: inline-block;
+  background: url(../../public/img/p_icon2.png) no-repeat center;
+  background-size: 100%;
+  text-indent: -9999px;
+  margin: 0;
+}
+.select .main_con .con .img2 {
+  width: 50px;
+  height: 50px;
+  background-color: #f2f3f7;
+  display: inline-block;
+  background: url(../../public/img/p_icon2.png) no-repeat center;
+  background-size: 100%;
+  text-indent: -9999px;
+  margin: 0;
+}
+.select .main_con .con .img3 {
+  width: 50px;
+  height: 50px;
+  background-color: #f2f3f7;
+  display: inline-block;
+  background: url(../../public/img/p_icon3.png) no-repeat center;
+  background-size: 100%;
+  text-indent: -9999px;
+  margin: 0;
+}
+.select .main_con .con .img4 {
+  width: 50px;
+  height: 50px;
+  background-color: #f2f3f7;
+  display: inline-block;
+  background: url(../../public/img/p_icon4.png) no-repeat center;
+  background-size: 100%;
+  text-indent: -9999px;
+  margin: 0;
+}
+.select .main_con .con div {
+  margin-left: 15px;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+}
+.select .main_con .con div p {
+  margin: 0;
+  font-weight: 600;
+  font-size: 0.9rem;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+.select .main_con .con div span {
+  color: #888;
+  font-size: 0.85rem;
+  letter-spacing: -1px;
+}
+.select .main_con .guduk {
+  width: 95%;
+  background-color: #f6faff;
+  margin: 0 auto;
+  border-radius: 15px;
+  display: flex;
+  padding: 15px;
+  margin-top: 10px;
+}
+.select .main_con .guduk p {
+  margin: 0;
+  font-weight: 600;
+  justify-content: center;
+  color: #6699ff;
+  margin: 0 auto;
+  font-size: 0.9rem;
+  letter-spacing: -1px;
+}/*# sourceMappingURL=SelectLink.css.map */
